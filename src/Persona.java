@@ -7,7 +7,8 @@
  *
  * @author 52311
  */
-public class Persona {
+
+    public class Persona {
     private String nombre;
     private byte edad;
     private int AMaterno;
@@ -93,3 +94,5 @@ public class Persona {
     
     
 }
+    
+
